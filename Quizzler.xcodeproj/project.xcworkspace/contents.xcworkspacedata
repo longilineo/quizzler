@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Quizzler.xcodeproj">
+      location = "group:right.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:wrong.mp3">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
