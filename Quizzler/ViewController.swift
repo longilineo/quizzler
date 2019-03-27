@@ -41,7 +41,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var progressLabel: UILabel!
     
     override func viewDidLoad() {
-        super.viewDidLoad()
+        super.viewDidLoad() 
         
         alert = UIAlertController(title: "Awesome", message: "You've finished all the questions, do you want to start over?", preferredStyle: .alert)
         
